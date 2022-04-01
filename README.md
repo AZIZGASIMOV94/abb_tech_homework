@@ -16,3 +16,6 @@ d) check repo status
 
 2. Understand merging strategies (fast-forward, recursive etc)
 In a few words describe each strategy
+
+
+hello this message is porpusefully created for conflict in feature_b branch
