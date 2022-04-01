@@ -29,3 +29,5 @@ hello this message is porpusefully created for conflict in feature_b branch
 >>>>>>> feature_b
 
 new branch is created here...) 
+
+modification without stash......
