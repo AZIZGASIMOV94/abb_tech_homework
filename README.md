@@ -30,4 +30,8 @@ hello this message is porpusefully created for conflict in feature_b branch
 
 new branch is created here...) 
 
+<<<<<<< Updated upstream
 modification without stash......
+=======
+this change came with stash 
+>>>>>>> Stashed changes
