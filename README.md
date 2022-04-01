@@ -18,9 +18,12 @@ d) check repo status
 
 In a few words describe each strategy
 
-modification for feature_a branch 
 =======
 
 
 some modification in branch b
 
+=======
+
+hello this message is porpusefully created for conflict in feature_b branch
+>>>>>>> feature_b
